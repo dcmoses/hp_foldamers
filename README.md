@@ -3,7 +3,7 @@ Project for PHYS 230 at University of  California, Merced
 
 Part 1
 
-display_hp_foldamer produces a graphical representation of the best configuration of an HP foldamer as determined by the simulated annealing program modelo2 by Hania Kranas https://github.com/hansiu/modelo2-HPmodelSimulation.
+display_hp_foldamer produces a graphical representation of the best configuration of an HP foldamer as determined by the simulated annealing program modelo2 by Hania Kranas (https://github.com/hansiu/modelo2-HPmodelSimulation).
 
 get_landing_pad_length determines the length of the best catalytic hydrophobic "landing pad" as described by Guseva et al. (PNAS, 2017) on the outside of the best configuration of an HP foldamer as determined by modelo2.
 

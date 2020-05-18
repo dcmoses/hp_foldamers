@@ -9,7 +9,7 @@ display_hp_foldamer produces a graphical representation of the best configuratio
 
 get_landing_pad_length determines the length of the best catalytic hydrophobic "landing pad" as described by Guseva et al. (PNAS, 2017) on the outside of the best configuration of an HP foldamer as determined by modelo2.
 
-The file produced by modelo2 is traj.pdb. I have provided two such files (renamed based on the polymer being simulated) for use in running my example trials. They should be placed in the same directory as the Jupyter notebook.
+The file produced by a modelo2 simulated annealing process is traj.pdb. I have provided two such files (renamed based on the polymer being simulated) for use in running the example trials I have included in the Jupyter notebook. Those files should be placed in the same directory as the Jupyter notebook.
 
 Part 2
 

@@ -1,6 +1,8 @@
 # hp_foldamers
 Project for PHYS 230 at University of  California, Merced
 
+This project, inspired by the work of Guseva et al. (PNAS, 2017), uses the Gillespie algorithm to investigate the kinetics of the growth of hydrophobic-polar (HP) polymers of hydrophobic and polar monomers. In particular, we are interested in the effect of catalysis that might be provided by HP "foldamers" (folded HP polymers) with hydrophobic "landing pads" three or more residues long that may transiently bond with hydrophobic ends of growing chains and stabilize them in position, thereby increasing the reaction rate associated with further polymerization.
+
 Part 1
 
 display_hp_foldamer produces a graphical representation of the best configuration of an HP foldamer as determined by the simulated annealing program modelo2 by Hania Kranas (https://github.com/hansiu/modelo2-HPmodelSimulation).

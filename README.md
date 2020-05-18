@@ -19,4 +19,4 @@ E. Guseva et al., Foldamer hypothesis for the growth and sequence differentiatio
 
 H. Kranas, HP model simulation, github.com/hansiu/modelo2-HPmodelSimulation, 2016.
 
-D. Gillespie, Exact Stochastic Simulation of Coupled Chemical Reactions, Journal of Chemical Physics, 1977.
+D. Gillespie, Exact stochastic simulation of coupled chemical reactions, Journal of Chemical Physics, 1977.

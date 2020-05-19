@@ -17,7 +17,7 @@ hp_gillespie_simulation simulates the polymerization of hydrophobic (H) and pola
 
 References:
 
-1. E. Guseva et al., Foldamer hypothesis for the growth and sequence differentiation of prebiotic polymers, PNAS, 2017.
+1. E. Guseva, R. Zuckermann and K. Dill, Foldamer hypothesis for the growth and sequence differentiation of prebiotic polymers, PNAS, 2017.
 
 2. H. Kranas, HP model simulation, https://github.com/hansiu/modelo2-HPmodelSimulation, 2016.
 
